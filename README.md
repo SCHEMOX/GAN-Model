@@ -65,4 +65,4 @@ You can use these model files for generating new images or evaluating the model.
 
 ## License
 
-This project is licensed under the [GNU Affero General Public License (AGPL)](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the [GNU Affero General Public License (AGPL)](LICENSE) - see the [LICENSE](LICENSE) file for details.
